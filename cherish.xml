@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="github"
+fetch="https://github.com/" />
+<project path="device/asus/Z01R" name="vysakh-n/android_device_asus_Z01R" remote="github" revision="CherishOS"/>
+<project path="kernel/asus/sdm845" name="LineageOS/android_kernel_asus_sdm845" remote="github" revision="lineage-18.1" />
+<project path="vendor/asus" name="5z-devs/proprietary_vendor_asus" remote="github" revision="lineage-18.1" />
+</manifest>
